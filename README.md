@@ -76,6 +76,6 @@ You are free to use, modify, and distribute this software with proper attributio
 
 - 📫 Email: akshay.tiwari.cs@gmail.com
 - 💼 LinkedIn: [https://www.linkedin.com/in/akshay-tiwari-5b6198285/]
-- 💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
+- 💻 GitHub: https://github.com/AkshayTiwari222/multilingual-real-estate-chat
 
 Feel free to reach out, contribute, or fork the project!
